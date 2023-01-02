@@ -1,6 +1,6 @@
 # 6Companies30days
 
-# # Rules:-
+#  Rules:-
 1) Complete 1 company (15 Questions) in 5 days and try maintaining a github repository to store all the codes which can be later used as notes .You can name the   repository as #6Companies30days or #ReviseWithArsh.
 2) The questions provided will be on a gap of 5 days for a new company i.e from 1st to 5th Jan,6th to 10th Jan and so on.
 Completing questions in these 5 days can be in any format - 3 questions a day or maybe 6 questions a day.
@@ -15,7 +15,7 @@ Completing questions in these 5 days can be in any format - 3 questions a day or
 3) A special surprise gift for top performers.
 4) Special 1 on 1 mentoring session on how to plan the things after this challenge - related to projects , revision , CS Fundamentals, Interview Tips , etc.
 
-# # Links:-
+# Links:-
 
 Detailed video on how to start : https://linktw.in/tYRJcv
 
